@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mohamedshabarek
+- 👀 I’m interested in music and poetry
+- 🌱 I’m currently a business IS major
+- 💞️ I’m looking to collaborate on: nothing, leave me alone <3
+- 📫 How to reach me: fadelshabarek2000@icloud.com
