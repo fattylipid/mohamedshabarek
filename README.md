@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @mohamedshabarek
-- 👀 I’m interested in music and poetry
-- 🌱 I’m currently a business IS major
-- 💞️ I’m looking to collaborate on: nothing, leave me alone <3
-- 📫 How to reach me: fadelshabarek2000@icloud.com
+- 👋 Hi, I’m Mohamed Fadel @fattylipid
+- 🌱 I’m a Master's student in Information Systems
+- 👾 My work experience includes: social media marketing, I'm on a career change path to IT/Cybersecurity!
+- 💞️ I’m looking to collaborate on: beginner projects in Python, SQL, Java, and Linux
+- 👀 Other than tech, my hobbies include: baking and playing the piano
+- 📫 Reach me at mohamedfshabarek@gmail.com
